@@ -1,0 +1,41 @@
+.marginTop{
+    margin-top : 50px;
+}
+
+.sectA {
+    color : #fff;
+    background-color: #911176; 
+}
+.img-thumbnail{
+    border : 0;
+}
+
+
+.sectB {
+    color : #fff;
+    background-color: #209111; 
+}
+
+
+.sectC {
+    color : #fff;
+    background-color: #d87a0e; 
+}
+.sectA:hover {
+    text-decoration: none;
+    color : #000;
+    background-color: #e0a8d4; 
+}
+.sectC:hover {
+    text-decoration: none;
+    color : #000;
+    background-color: #e2ba8d; 
+}
+.sectB:hover {
+    text-decoration: none;
+    color : #000;
+    background-color: #90e485; 
+}
+.marginbawah{
+    margin-bottom: 75px;
+}
